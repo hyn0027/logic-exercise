@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/jsoncpp/jsoncpp.cpp.o CMakeFiles/main.dir/sdk/BaseLogic.cpp.o CMakeFiles/main.dir/connect4/Connect4Logic.cpp.o  -o bin/main 
